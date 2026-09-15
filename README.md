@@ -1,5 +1,5 @@
 # generador_presupuesto_pdf
-Script en Python para automatizar la creacion de presupuestos en PDF con FPDF y Google Colab
+Script en Python para automatizar la creacion de presupuestos en PDF con FPDF y Google Colab. (Realizado en curso con Daxus)
 
 # 📄 Generador Automático de Presupuestos en PDF
 
