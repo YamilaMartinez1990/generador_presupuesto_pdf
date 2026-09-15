@@ -18,5 +18,10 @@ Este proyecto es un script automatizado desarrollado en **Python** diseñado par
 ## 📂 Estructura del Repositorio
 * `proyecto_pdf.ipynb`: Cuaderno principal con el código fuente del programa.
 * `Template.png`: Archivo de diseño gráfico utilizado como fondo del presupuesto.
-Adicional: `Presupuesto.pdf`: Archivo PDF de muestra
+* Adicional: `Presupuesto.pdf`: Archivo PDF de muestra
+
+  generador_presupuesto_pdf/
+├── proyecto_pdf.ipynb         
+├── Template.png        
+├── Presupuesto.pdf   
 ---
