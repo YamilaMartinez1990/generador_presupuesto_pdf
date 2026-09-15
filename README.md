@@ -21,6 +21,7 @@ Este proyecto es un script automatizado desarrollado en **Python** diseñado par
 * Adicional: `Presupuesto.pdf`: Archivo PDF de muestra
 
   generador_presupuesto_pdf/
+  
 ├── proyecto_pdf.ipynb         
 ├── Template.png        
 ├── Presupuesto.pdf   
